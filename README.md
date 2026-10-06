@@ -47,4 +47,6 @@ A qualidade se ajusta sozinha (óculos e celulares usam o modo leve). Para forç
 
 ## Fontes
 
+Todos os arquivos ficam na raiz (sem pastas), para facilitar o envio pelo site do GitHub.
+
 Ver a tela **Fontes e notas** no jogo. Personagens, falas, encontros e cenários são criações educativas baseadas na pesquisa de referência; fatos históricos seguem estritamente as fontes citadas.
